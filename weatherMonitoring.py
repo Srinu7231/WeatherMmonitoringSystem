@@ -1,6 +1,7 @@
 import requests
 
 from twilio.rest import Clien
+# goto Twilio web site and create your account and you will get these ids
 account_sid = 'your accout SID'
 auth_token = 'Your auth token'
 
